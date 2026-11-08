@@ -2,7 +2,7 @@
 
 An interactive globe of sanctuaries, poleis, and colonies from the Geometric period through Roman rule, with myths, people, a timeline, and public-domain readings pinned to the places that have a sourced point.
 
-The map, the time bar, and the sheet layout follow [history-of-humanity-map](https://github.com/LewisAGI/history-of-humanity-map) and [wildlife-migration-atlas](https://github.com/LewisAGI/wildlife-migration-atlas).
+The map, the time bar, and the sheet layout follow [history-of-humanity-map](https://github.com/Lewis-AI-Collab/history-of-humanity-map) and [wildlife-migration-atlas](https://github.com/Lewis-AI-Collab/wildlife-migration-atlas).
 
 ## Develop
 
